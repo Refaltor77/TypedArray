@@ -1,0 +1,18 @@
+{
+    "name": "elysio/typed-array",
+    "type": "library",
+    "description": "A PHP package for managing typed arrays, simulating TypeScript interfaces, and improving array handling in PHP projects.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elysio\\TypedArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elysio Martins",
+            "email": "elysiomartinspro@gmail.com"
+        }
+    ],
+    "require": {}
+}
